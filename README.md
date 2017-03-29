@@ -62,6 +62,6 @@ Run below script to update VMSS.
 After running the script, watch your vmss via Azure portal. The script was succeeded if you can watch "LATEST MODEL" of your vmss are "No" via Azure portal like below.
 ![VMSS Model Update](https://raw.githubusercontent.com/normalian/VMSS-Deploy-Update-With-ManagedDisk/master/fig.png "VMSS Model Update")
 
-Upgrade your instances to "LATEST MODEL" vi portal. Your update will be finished when "LATEST MODEL" of all instances are "Yes".
+Upgrade your instances to "LATEST MODEL" via Azure portal. Your update will be finished when "LATEST MODEL" of all instances are "Yes".
 
 
