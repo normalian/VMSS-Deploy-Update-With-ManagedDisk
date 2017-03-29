@@ -1,4 +1,4 @@
-# How to deploy and update VMSS with custom imanges using Managed Disk?
+# How to deploy and update VMSS with custom images using Managed Disk
 1. Create custom images with Managed Disks
 1. Deploy your custom image using ARM template in this repository, and you can create a VMSS
 1. Create a new custom image with Managed Disks for updating the VMSS
